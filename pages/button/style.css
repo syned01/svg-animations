@@ -3,6 +3,13 @@
   --light-color: #80e9ff;
 }
 
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 svg {
   cursor: pointer;
 }
