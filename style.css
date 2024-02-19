@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+
+menu {
+  display: flex;
+  list-style: none;
+  gap: 32px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  padding: 4px;
+}
